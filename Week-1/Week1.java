@@ -113,7 +113,7 @@ public class Week1 {
     < arr[ 2k+1] ) is found, perform a linear search operation from the index 2k to find the element key. 
     (Complexity < O(n), where n is the number of elements need to be scanned for searching): Jump Search
 */
-    public static void main(String[] args) {
+/*    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         // Input for number of test cases
@@ -165,6 +165,6 @@ public class Week1 {
 
         }
     }
-
+*/
 
 }
